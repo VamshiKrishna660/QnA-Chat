@@ -28,11 +28,13 @@ A simple Streamlit app that lets you **ask questions about any website** using t
 ## 📦 Installation
 
 1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/chatgroq-webqa.git
-   cd chatgroq-webqa
 
-2. **Create a virtual environment (optional but recommended)**
+```bash
+git clone https://github.com/your-username/chatgroq-webqa.git
+cd chatgroq-webqa
+```
+
+2. **Create a virtual environment (optional)**
 
 ``` bash
 python -m venv venv
@@ -50,5 +52,12 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-🧪 Run the App
+--- 
+
+## 🧪 Run the App
 streamlit run app.py
+
+---
+
+## 📜 License
+MIT License – See LICENSE for full details.
