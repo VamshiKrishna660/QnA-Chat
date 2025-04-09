@@ -1,4 +1,4 @@
-# 🌐 ChatGroq Website Q&A with LangChain & Streamlit
+# ChatGroq Website Q&A with LangChain & Streamlit
 
 A simple Streamlit app that lets you **ask questions about any website** using the power of **LangChain**, **Groq's LLMs**, and **FAISS** vector search!
 
@@ -25,13 +25,13 @@ A simple Streamlit app that lets you **ask questions about any website** using t
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/chatgroq-webqa.git
-cd chatgroq-webqa
+git clone https://github.com/VamshiKrishna660/QnA-ChatGroq.git
+cd QnA-ChatGroq
 ```
 
 2. **Create a virtual environment (optional)**
@@ -54,8 +54,10 @@ GROQ_API_KEY=your_groq_api_key_here
 
 --- 
 
-## 🧪 Run the App
+## Run the App
+```bash
 streamlit run app.py
+```
 
 ---
 
