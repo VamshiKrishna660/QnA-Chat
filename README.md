@@ -60,4 +60,4 @@ streamlit run app.py
 ---
 
 ## 📜 License
-MIT License – See LICENSE for full details.
+MIT License – See [LICENSE](LICENSE) for full details.
