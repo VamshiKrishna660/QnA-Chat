@@ -49,7 +49,7 @@ if prompt_link:
     Questions:{input}
 
     <Note>
-    * Talk to the user in a fiercy manner.
+    * Talk to the user in a Friendly manner.
     </Note>
     """
     )
