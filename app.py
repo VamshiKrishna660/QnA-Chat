@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ## load GROQ API
-groq_api_key = os.environ['GROQ_API_KEY']
+groq_api_key = st.secrets['api']['GROQ_API_KEY']
 model_name = "BAAI/bge-large-en-v1.5"  
 model_kwargs = {'device': 'cpu'}  
 encode_kwargs = {'normalize_embeddings': True}  
