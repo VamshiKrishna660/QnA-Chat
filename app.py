@@ -22,7 +22,7 @@ encode_kwargs = {'normalize_embeddings': True}
 
 
 
-st.title("ChatGroq Demo")
+st.title("ChatGroq")
 
 prompt_link = st.text_input("Enter the Link to Chat with Website!!")
 
